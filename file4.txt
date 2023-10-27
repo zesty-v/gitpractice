@@ -1,2 +1,2 @@
 Initial version 0.0
-onsecutive version 0.1
+consecutive version 0.1
